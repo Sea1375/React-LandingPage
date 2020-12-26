@@ -1,0 +1,125 @@
+.body {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.inline {
+    margin-left: 18.75%;
+    margin-right: 18.75%;
+}
+.y-side {
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+.y-creators-side {
+    margin-top: 0%;
+    margin-bottom: 6%;
+}
+/*table*/
+
+.borderless td, .borderless th
+{
+    text-align: center;
+    vertical-align: middle;
+    border: none;
+    padding: 5%;
+    max-height: 30px;
+}
+#categoryImage {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 30%;
+}
+.creatorImage {
+    border: 3px solid black;
+    border-radius: 50%;
+}
+/*button*/
+.button {
+    background-color: #7C40D5;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+.outline-button {
+    background-color: white;
+    color: #7C40D5;
+    border: 1px solid #707070;
+}
+.inline-button {
+    background-color: #7C40D5;
+    color: white;
+    border: 1px solid #7C40D5;
+}
+.dropdown-toggle {
+    background-color: transparent;
+    border-color: #fff;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.nav {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.nav li {
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px;
+}
+/*font*/
+.SemiBold-54 {
+    font-family: 'SemiBold';
+    font-size: 2.7vw;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.SemiBold-48 {
+    font-family: 'SemiBold';
+    font-size: 2.5vw;
+}
+.Regular-22 {
+    font-family: 'Regular';
+    font-size: 1.1vw;
+}
+.Regular-26 {
+    font-family: 'Regular';
+    font-size: 1.3vw;
+}
+.Medium-white {
+    font-family: 'Medium';
+    font-size: 1.1vw;
+    color: white;
+}
+.Medium-pink {
+    font-family: 'Medium';
+    font-size: 1.1vw;
+    color: #7C40D5;
+}
+.Medium-32 {
+    font-family: 'Medium';
+    font-size: 1.3vw;
+    color: black;
+}
+@font-face {
+    font-family: 'SemiBold';
+    src: url('../../assets/EM-Gilroy/SemiBold.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Regular';
+    src: url('../../assets/EM-Gilroy/Regular.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Medium';
+    src: url('../../assets/EM-Gilroy/Medium.otf') format('truetype');
+}
+

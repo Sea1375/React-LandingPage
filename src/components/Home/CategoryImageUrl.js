@@ -1,0 +1,17 @@
+export const CategoryImageUrl = [
+  'assets/home-img/categories/video-films.png',
+  'assets/home-img/categories/music.png',
+  'assets/home-img/categories/writing.png',
+  'assets/home-img/categories/comics.png',
+  'assets/home-img/categories/drawing-Painting.png',
+  'assets/home-img/categories/animation.png',
+  'assets/home-img/categories/podcast.png',
+  'assets/home-img/categories/games.png',
+  'assets/home-img/categories/photography.png',
+  'assets/home-img/categories/comedy.png',
+  'assets/home-img/categories/science.png',
+  'assets/home-img/categories/education.png',
+  'assets/home-img/categories/craft.png',
+  'assets/home-img/categories/dance.png',
+  'assets/home-img/categories/software.png',
+]
